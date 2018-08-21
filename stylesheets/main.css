@@ -88,5 +88,10 @@ h6 {
 }
 
 a {
-  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+text-align: center;
+  color: black
 }
+
+
