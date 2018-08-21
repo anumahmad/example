@@ -70,3 +70,23 @@ p {
   font-size: 25px
 }
 
+footer {
+  
+    padding-left: 10px;
+    padding-bottom:0%;
+    background-color:#333;
+    color: white;
+    text-align: left;
+
+}
+
+
+
+h6 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px
+}
+
+a {
+  color: white;
+}
